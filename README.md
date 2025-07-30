@@ -36,6 +36,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Nunesszz/Nunesszz/output/snake.svg" alt="Snake animation" />
+![Snake Animation](https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif)
+
 
 ###
