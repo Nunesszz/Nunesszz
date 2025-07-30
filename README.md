@@ -33,7 +33,7 @@
 ###
 
 <div align="center">
-  <img height="250" width="250" src="https://c.tenor.com/PDbtRusvvMkAAAAC/tenor.gif"  />
+  <img height="250" width="100" border-radius="10px" src="https://c.tenor.com/PDbtRusvvMkAAAAC/tenor.gif"  />
 </div>
 
 ###
