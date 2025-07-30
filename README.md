@@ -34,9 +34,9 @@
 
 ###
 
-<div>
+
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif?username=Nunesszz" alt="Snake animation" style="background-color/>
-</div>
+
 
 
 ###
