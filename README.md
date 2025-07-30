@@ -35,7 +35,8 @@
 ###
 
 
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif?username=Nunesszz" alt="Snake animation" style="background-color/>
+ <img src="https://media.giphy.com/media/3orieYfZJsZBBw3rQY/giphy.gif" alt="Pac-Man animation" width="100" />
+
 
 
 
