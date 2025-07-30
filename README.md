@@ -34,10 +34,8 @@
 
 ###
 
+<br clear="both">
 
- <img src="https://media.giphy.com/media/3orieYfZJsZBBw3rQY/giphy.gif" alt="Pac-Man animation" width="100" />
-
-
-
+<img src="https://raw.githubusercontent.com/Nunesszz/Nunesszz/output/snake.svg" alt="Snake animation" />
 
 ###
