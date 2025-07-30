@@ -34,8 +34,8 @@
 
 ###
 
-<div style="background-color: black; display: inline-block; padding: 10px;">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif?username=Nunesszz" alt="Snake animation" />
+<div>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif?username=Nunesszz" alt="Snake animation" style="background-color/>
 </div>
 
 
